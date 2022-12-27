@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --main-color: #4867D5;
+    --main-radius: 40px;
+}
+
+body {
+    font-family: 'Montserrat';
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+}
